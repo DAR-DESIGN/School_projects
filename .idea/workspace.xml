@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279799ec-a3af-4dfd-a91c-cdd9df01fa10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/codes/STRingFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/STRingFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -51,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.revString">
+  <component name="RunManager" selected="Application.bill">
     <configuration name="STRingFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codes.STRingFun" />
       <module name="School_projects" />
@@ -65,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="coinage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codes.coinage" />
+    <configuration name="bill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codes.bill" />
       <module name="School_projects" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bill" />
         <item itemvalue="Application.revString" />
         <item itemvalue="Application.STRingFun" />
         <item itemvalue="Application.menu3" />
         <item itemvalue="Application.palinString" />
-        <item itemvalue="Application.coinage" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568118455322</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final commit(sorry a bit changed)">
+      <created>1568118542001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568118542001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -210,7 +219,8 @@
     <MESSAGE value="final commit(is a bit changed)" />
     <MESSAGE value="final commit(is a bit changed sorry another change is present)" />
     <MESSAGE value="final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+    <MESSAGE value="final commit(sorry a bit changed)" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit(sorry a bit changed)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
