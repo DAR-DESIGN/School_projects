@@ -4,6 +4,7 @@ package codes;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
 import static java.lang.System.in;
 import static java.lang.System.out;
 
@@ -31,9 +32,7 @@ public class menu3 {
                     if (b) {
                         c++;
                     }
-                    if (!b) {
-                        c1++;
-                    }
+
                     if (Character.isWhitespace(ch1)) {
                         c2++;
 
@@ -44,7 +43,7 @@ public class menu3 {
                 }
 
                 out.println("NO. OF VOWELS ARE : " + c);
-                out.println("NO. OF CONSONANTS ARE : " + c1);
+                out.println("NO. OF CONSONANTS ARE : " + (c3 - c));
                 out.println("NO. OF SPACES ARE : " + c2);
                 out.println("NO. OF CHARACTERS ARE : " + c3);
                 break;
