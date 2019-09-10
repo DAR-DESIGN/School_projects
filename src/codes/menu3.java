@@ -7,6 +7,8 @@ import java.io.InputStreamReader;
 
 import static java.lang.System.in;
 import static java.lang.System.out;
+//author Dibyojyoti Bhattacharjee
+//Task 12 of school_projects
 
 
 

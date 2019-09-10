@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="279799ec-a3af-4dfd-a91c-cdd9df01fa10" name="Default Changelist" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="279799ec-a3af-4dfd-a91c-cdd9df01fa10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codes/STRingFun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/menu3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/menu3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QbDTPUoeOYELU8SWP85NFx7lIP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -150,7 +152,18 @@
       <option name="presentableId" value="Default" />
       <updated>1568030409836</updated>
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1568103955182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568103955182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
